@@ -1,0 +1,23 @@
+# Never publish local account or player dumps.
+*个人信息*
+*uid_*
+*UID_*
+*玩家配置*
+*服务器配置*
+
+# Release payloads are uploaded separately and must not enter Git history.
+release-assets/
+manifest-build.log
+manifest-build.err.log
+*.apk
+*.zip
+*.7z
+*.xz
+*.sqlite
+*.so
+
+# Local tooling noise.
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
