@@ -8,6 +8,7 @@ Source paths:
 
 - `assets/resource/standalone_collection/`
 - `assets/fonts/`
+- `assets/package/story/`
 
 The snapshot is useful for studying:
 
@@ -15,6 +16,8 @@ The snapshot is useful for studying:
 - page geometry, typography, and legacy web runtime behavior;
 - JavaScript/native bridge commands used by the standalone collection;
 - image and layout conventions that can inform ADV compatibility work.
+- official Chinese client story UI atlas metadata, narration overlays, frames,
+  and the ADV tap effect.
 
 Account dumps, UID-bound responses, private raw captures, player/server
 configuration, APK payloads, native libraries, and the bulk downloaded resource
