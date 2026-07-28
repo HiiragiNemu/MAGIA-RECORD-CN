@@ -4,6 +4,12 @@
 *UID_*
 *玩家配置*
 *服务器配置*
+*dump*
+*Dump*
+Decoded_*.json
+search_results.txt
+Full_Raw_Dump_V2/
+**/private_raw_DO_NOT_UPLOAD/
 
 # Release payloads are uploaded separately and must not enter Git history.
 release-assets/
