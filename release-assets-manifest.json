@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sourceRootName": "MAGIA RECORD CN",
+  "thresholdBytes": 99614720,
+  "generatedAtUtc": "2026-07-28T17:57:02.2797554Z",
+  "assets": [
+    {
+      "path": "魔法纪录国服已更新到离线版本.apk",
+      "bytes": 1993814051,
+      "sha256": "5850914167de182854d8df6027556fdc5e236ff8a718f53a18961069f228c8a3"
+    },
+    {
+      "path": "魔纪国服v2.2.1离线补丁版（LSPatch）.apk",
+      "bytes": 2001521949,
+      "sha256": "588d25335cfd0ae97b113010bfcd501e13c0a8e7bf31c4783513d82a7f6d6ed7"
+    },
+    {
+      "path": "魔纪国服v2.2.1离线补丁版（LSPatch）\\assets\\lspatch\\origin.apk",
+      "bytes": 1998003047,
+      "sha256": "99714d737f078690dce4bb9ccfb91ea141201d977cc185356ce73109b7af9a11"
+    },
+    {
+      "path": "魔纪国服v2.2.1离线补丁版（LSPatch）\\lib\\arm64-v8a\\libmadomagi_native.so",
+      "bytes": 277065000,
+      "sha256": "7de789f72b0afcf05cc96d938bb364be7136fddd6b00c616a8a8492686e2a31c"
+    },
+    {
+      "path": "魔纪国服v2.2.1离线补丁版（LSPatch）\\lib\\armeabi-v7a\\libmadomagi_native.so",
+      "bytes": 221488240,
+      "sha256": "e8d3e7d3390a53224c7b208664dfe34534610da38fb8ca8a77372d56cc1d8081"
+    },
+    {
+      "path": "com.termux_118.apk",
+      "bytes": 101739523,
+      "sha256": "822ac152bd7c2d9770b87c1feea03f22f2349a91b94481b268c739493a260f0b"
+    },
+    {
+      "path": "download\\asset\\master\\resource\\2112151819_zip\\asset_main_movie8.zip",
+      "bytes": 152643151,
+      "sha256": "06f46a19c68444a24515319f8ae99f6a2509043531e59657afec15a14f6e23f0"
+    },
+    {
+      "path": "download\\asset\\master\\resource\\2112151819\\movie\\other\\102005_epilogue.usm",
+      "bytes": 153093056,
+      "sha256": "ab9530be4255c707af03ac7bcf870eeb6a445288346ca9f4b48c27907ec41dff"
+    },
+    {
+      "path": "Magireco-Rebuild\\archive\\puella-historia.tsv.xz",
+      "bytes": 1107134176,
+      "sha256": "2b69c57152c7da7a7f9c73996ab3db4455bf88e307905c64293444568c2e04cd"
+    },
+    {
+      "path": "Magireco-Rebuild\\catalog\\stage1_catalog.sqlite",
+      "bytes": 231333888,
+      "sha256": "13a0d469ab93a2acb337129802f8079e2619a6e1b08734b02884b0ca3fb5e4ee"
+    }
+  ]
+}
