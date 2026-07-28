@@ -27,14 +27,17 @@ task explicitly authorizes changes.
 - Local path: `D:\magia\MyProducts\magi-reader-exedra-test`
 - Remote: `HiiragiNemu/magi-reader`
 - Branch: `feature/exedra-cn-and-magireco-voice`
-- Verified local and remote commit:
+- Remote commit:
   `eebc713f93fa88a67c8a30b7bedfcb5cd102ee10`
-- Working tree: **not clean**; 1,040 local changes/untracked entries were
-  observed.
+- Snapshot at 2026-07-29 02:27 +08:00:
+  local `33c4945a1411115d3ad15190662267317099708a`, ahead by one commit,
+  working tree clean.
 
-The committed baseline matches GitHub, but the current local files do not.
-Do not reset, clean, switch, or bulk-push this worktree without a separate
-review and explicit scope.
+This worktree is actively being changed and amended by a parallel research
+task. Earlier in the same audit it contained 1,040 uncommitted/untracked
+entries before that task consolidated them. Do not rely on the recorded local
+SHA as a stable revision, and do not reset, clean, switch, amend, or bulk-push
+this worktree from another task.
 
 ## Historical Viewer SP
 
